@@ -17,7 +17,7 @@
 
    .. TODO Link to update guide
 
-   GPS works be receiving radio signals from satellites orbiting the earth. Before a position can be found it needs to receive information from multiple satellites. When first powered on, a lot of information needs to be received before the signal 'locks on'. Buildings, trees, etc. which block signals will make it harder to get a lock.
+   GPS works by receiving radio signals from satellites orbiting the earth. Before a position can be found it needs to receive information from multiple satellites. When first powered on, a lot of information needs to be received before the signal 'locks on'. Buildings, trees, etc. which block signals will make it harder to get a lock.
    
    As such you'll have best results when outdoors with a clear view of most of the sky.
 
