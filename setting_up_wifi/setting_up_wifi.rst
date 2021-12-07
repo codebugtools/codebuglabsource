@@ -28,13 +28,13 @@
 
     #. Wait for CodeBug Connect to scan for available networks, indicated by purple wifi scan.
 
-        .. figure:: img/wifi/WiFiScan.png
+       .. figure:: img/wifi/WiFiScan.png
             :alt: Wifi scan begin
             :align: center
 
     #. Watch for CodeBug Connect's display briefly showing blue to show no suitable network was found, and as such that it is starting its own access point.
 
-        .. figure:: img/wifi/WiFiNotFound.png
+       .. figure:: img/wifi/WiFiNotFound.png
             :alt: Wifi not found
             :align: center
 
@@ -46,7 +46,7 @@
     
     #. Connect to the corresponding ``codebug_xxxxxxx`` network.
 
-        .. note:: When you connect to your CodeBug Connect like this, your laptop will no longer be connected to your old access point, and as such, may not have Internet access! This will only be brief you'll switch back to your normal access point once you've set up CodeBug Connect.
+       .. note:: When you connect to your CodeBug Connect like this, your laptop will no longer be connected to your old access point, and as such, may not have Internet access! This will only be brief you'll switch back to your normal access point once you've set up CodeBug Connect.
 
     #. Watch for CodeBug Connect scrolling in green an address beginning ``http://``. Usually, this will be ``http://192.168.4.1``. 
 
