@@ -22,7 +22,7 @@
 
 .. codelab:: Power up and find CodeBug's access point
    
-   By default CodeBug Connect tries to connect to an WiFi access point. When it can't, it creates it's own access point for you to connect to. We're going to connect to this access point hosted by CodeBug Connect and then give it the details of the WiFi access point that will give CodeBug Connect Internet access.
+    By default CodeBug Connect tries to connect to an WiFi access point. When it can't, it creates it's own access point for you to connect to. We're going to connect to this access point hosted by CodeBug Connect and then give it the details of the WiFi access point that will give CodeBug Connect Internet access.
 
     #. Power on Codebug Connect.
 
