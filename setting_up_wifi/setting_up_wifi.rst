@@ -67,7 +67,7 @@
     
     #. CodeBug Connect will stop hosting it's own access point. You now need to reconnect your laptop or smartphone to your usual WiFi access point (many devices do it automatically).
 
-.. codelab:: CodeBug Connects joins your WiFi
+.. codelab:: CodeBug joins your WiFi
 
     Following the restart, CodeBug Connect will now try and connect to a stored access point. 
 
