@@ -7,7 +7,7 @@
 
 .. TODO change title image
 
-.. titleimage:: gps-circle2.png
+.. titleimage:: img/my_codebug_connects_button.png
 
 .. codelab:: Introduction
 
@@ -19,7 +19,7 @@
 
 .. codelab:: Setup WiFi
 
-   .. note:: Before following this guide your CodeBug must be able to connect to WiFi. Follow the Setting up WiFi guide if you haven't done already.
+   .. note:: Before following this guide your CodeBug must be able to connect to WiFi. Follow the :codeguide:`Set up Wifi<setting-up-wifi>` guide if you haven't done already.
 
 .. include:: ../partials/full_steps/sign_in.rst
 
@@ -83,3 +83,4 @@
 
 .. codelab:: Adoption Complete
 
+        TODO

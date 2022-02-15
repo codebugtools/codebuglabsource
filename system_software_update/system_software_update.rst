@@ -23,7 +23,7 @@
    #. You have a backup of any programs and data on your CodeBug Connect, just in case!
    #. You're powering your CodeBug Connect from a good quality USB power supply
    #. You have an account on the CodeBug website
-   #. Your CodeBug Connect has a WiFi connection setup and it's been Adopted on the CodeBug Website
+   #. Your CodeBug Connect has a :codeguide:`WiFi connection setup<setting-up-wifi>` and it's been Adopted on the CodeBug Website
 
    .. warning:: Check everything on the list before proceeding!
 
