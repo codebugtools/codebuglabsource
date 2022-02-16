@@ -88,11 +88,11 @@
         :alt: Smile indicating firmware update success
         :align: center
 
-       .. warning:: Your CodeBug Connect may still be cleaning up the file system do not remove power yet!
+       .. warning:: Your CodeBug Connect may still be cleaning up the file system, so do not remove power yet!
 
 .. codelab:: Wait for reboot
 
-    .. warning:: Wait until CodeBug Connect reboots before removing power !
+    .. warning:: Wait until CodeBug Connect reboots before removing power!
 
     #. Wait at least 10 seconds after your CodeBug Connect has completed rebooting after the update.
 
