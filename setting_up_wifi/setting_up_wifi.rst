@@ -46,12 +46,17 @@
 
     #. From your computer or smartphone perform a scan for wireless networks and look for the ``codebug_xxxxxxx`` network.
     
+       .. figure:: img/wifi/SelectWifi.png
+            :alt: Scan for WiFi networks and select CodeBug
+            :align: center
+
     #. Connect to the corresponding ``codebug_xxxxxxx`` network.
 
        .. note:: When you connect to your CodeBug Connect like this, your laptop will no longer be connected to your old access point, and as such, may not have Internet access! This will only be brief -- you'll switch back to your normal access point once you've set up CodeBug Connect.
 
     #. Watch for CodeBug Connect scrolling in green an address beginning ``http://``. Usually, this will be ``http://192.168.4.1``. 
 
+.. codelab:: Connect from your web browser
 
     #. On your laptop or smart phone, open a web browser.
     
@@ -59,11 +64,29 @@
 
     #. After a few seconds CodeBug Connect's onboard IDE will load. Click the WiFi button on the top right of the page.
 
+       .. figure:: img/wifi/CodeBugIdeHighlightWifi.png
+            :alt: CodeBug Connect IDE WiFi button in top left
+            :align: center
+
+.. codelab:: Select your access point
+
     #. CodeBug Connect will scan for WiFi networks nearby. From the window that pops up, choose your access point, enter your WiFi's password and click save.
+
+       .. figure:: img/wifi/EnterAP.png
+            :alt: Choose your Access Point and enter password
+            :align: center
 
     #. Wait for the window to reload. It should show the newly stored access point.
 
+       .. figure:: img/wifi/StoredAP.png
+            :alt: Access Point stored
+            :align: center
+
     #. Click reboot. 
+
+       .. figure:: img/wifi/confirm_reboot.png
+            :alt: Confirm Reboot
+            :align: center
 
     #. Click to confirm you want to reboot. 
     

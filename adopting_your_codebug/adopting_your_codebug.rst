@@ -19,7 +19,7 @@
 
 .. codelab:: Setup WiFi
 
-   .. note:: Before following this guide your CodeBug must be able to connect to WiFi. Follow the :codeguide:`Set up Wifi<setting-up-wifi>` guide if you haven't done already.
+   .. important:: Before following this guide your CodeBug must be able to connect to WiFi. Follow the :codeguide:`Set up Wifi<setting-up-wifi>` guide if you haven't done already.
 
 .. include:: ../partials/full_steps/sign_in.rst
 
@@ -33,6 +33,10 @@
 
     #. Click ``Download Key`` button to download your unique key. Your browser will download a file named ``adoption_key.dat`` -- store it somewhere on your computer as you'll need to copy it onto your CodeBug in a later step.
 
+       .. figure:: img/downloadAdoptionKey.png
+        :alt: Download Adoption Key Button
+        :align: center
+
 .. include:: ../partials/full_steps/msd_mode.rst
 
 .. codelab:: Transfer the key
@@ -42,6 +46,12 @@
     #. Eject (or for some operating systems unmount) the CodeBug Connect USB disk. Wait until the end of the next step before unplugging.
 
     #. On most computers (though not some Apple Computers) the yellow file icon on CodeBug Connect will turn green, indicating when it's safe to unplug.
+
+       .. figure:: img/fileIconGreen.png
+        :alt: Green File icon
+        :align: center
+
+       On later updates CodeBug Connect will scroll a message requesting it is unplugged.
 
 .. codelab:: Restart CodeBug Connect
 
@@ -61,7 +71,7 @@
 
 .. codelab:: Give your CodeBug Connect a name
 
-    #. Click Bug detail
+    #. On the ``MY CODEBUG CONNECTS`` click the newly adopted CodeBug Connect
 
        .. figure:: img/device_detail.png
         :alt: CodeBug Connect device detail
@@ -83,4 +93,4 @@
 
 .. codelab:: Adoption Complete
 
-        TODO
+    If you've not already done so, you're now ready to create your first program and transfer it to your CodeBug Connect over WiFi.
