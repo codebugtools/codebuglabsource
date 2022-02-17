@@ -31,7 +31,13 @@
 
 .. codelab:: Request update from your CodeBug Connect
 
-    #. From a terminal (either over USB serial or via the onboard web IDE) enter the following:
+    #. Bring up a terminal, for instance via the onboard web IDE (over USB serial).
+
+       .. image:: img/webterminal.png
+        :alt: Terminal in CodeBug Connect web IDE
+    
+    
+    #. enter the following:
 
        .. code-block:: python
 
