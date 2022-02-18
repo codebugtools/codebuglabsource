@@ -26,7 +26,7 @@
 
     #. You have a backup of any programs and data on your CodeBug Connect, just in case!
     #. You're powering your CodeBug Connect from a good quality USB power supply.
-    #. Your CodeBug Connect has a :codeguide:`WiFi connection setup<setting-up-wifi>`
+    #. Your CodeBug Connect has a :codeguide:`WiFi connection setup<setting-up-wifi-on-codebug-connect>`
 
     .. note:: While we do our best not to introduce changes that will cause your programs to break, you may have to make slight updates to keep them working after the update.
 

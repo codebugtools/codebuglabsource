@@ -20,7 +20,7 @@
 
 .. codelab:: Setup WiFi
 
-   .. important:: Before following this guide your CodeBug must be able to connect to WiFi. Follow the :codeguide:`Set up Wifi<setting-up-wifi>` guide if you haven't done already.
+   .. important:: Before following this guide your CodeBug must be able to connect to WiFi. Follow the :codeguide:`Set up Wifi<setting-up-wifi-on-codebug-connect>` guide if you haven't done already.
 
 .. include:: ../partials/full_steps/sign_in.rst
 
