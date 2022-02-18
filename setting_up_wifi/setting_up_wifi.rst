@@ -1,7 +1,8 @@
 .. setting up WiFi
 .. (c) OpenLX SP Ltd 2021 All rights reserved
 
-:difficulty: easy
+:difficulty: beginner
+:duration: 5
 
 .. title:: Setting up WiFi on CodeBug Connect
 
@@ -96,7 +97,7 @@
 
     Following the restart, CodeBug Connect will now try and connect to a stored access point. 
 
-    #. Watch the display on CodeBug while it boots. If successful it will briefly show green and then scroll the address it's been given by your router. You may need to make a note of this address if connecting to http://codebug.local did not work earlier.
+    #. Watch the display on CodeBug while it boots. If successful, it will briefly show green and then scroll the address it's been given by your router. You may need to make a note of this address if connecting to http://codebug.local did not work earlier.
 
     #. Check you can access your CodeBug Connect on your local network by visiting http://codebug.local, or if that doesn't work, the address in green you made a note of.
 

@@ -1,7 +1,8 @@
 .. how to get started with the gps
 .. (c) OpenLX SP Ltd 2021 All rights reserved
 
-:difficulty: easy
+:difficulty: Intermediate
+:duration: 10
 
 .. title:: Get started with the GPS add-on
 
@@ -13,18 +14,18 @@
 
    This guide will show you how to setup the GPS add-on on a CodeBug Connect.
 
-   .. important:: You need the latest eMicroPython OS running on your CodeBug Connect before you use it with the GPS add-on. 
-
-   .. TODO Link to update guide
+   .. important:: You need a later version of the eMicroPython system software running on your CodeBug Connect to use the GPS add-on. It's easy to :codeguide:`update your system software<system-software-update>`. 
 
    GPS works by receiving radio signals from satellites orbiting the earth. 
    
-      .. figure:: GPS_Satellite_NASA_art-iif.jpg
-         :alt: GPS Satellite in space
+   .. figure:: GPS_Satellite_NASA_art-iif.jpg
+    :alt: GPS Satellite in space
 
-         GPS signals are received from a constellation of satellites in space.
+    GPS signals are received from a constellation of satellites in space.
 
    Before a position can be found it needs to receive information from multiple satellites. When first powered on, a lot of information needs to be received before the signal 'locks on'. Buildings, trees, etc. which block signals will make it harder to get a lock, and as such, receivers will work best when outdoors with a clear view of most of the sky.
+
+   .. tip:: Get outside with a clear view of most of the sky for best results.
 
 .. codelab:: Plugging In
    .. warning:: Take care when plugging in add-ons. Always disconnect the power, check all the pins are aligned and never use excessive force.

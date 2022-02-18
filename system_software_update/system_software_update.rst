@@ -1,7 +1,8 @@
 .. Updating CodeBug Connect's System Software
 .. (c) OpenLX SP Ltd 2022 All rights reserved
 
-:difficulty: easy
+:difficulty: intermediate
+:duration: 10
 
 .. title:: Updating CodeBug Connect's system software
 
@@ -10,6 +11,8 @@
 .. titleimage:: gps-circle2.png
 
 .. codelab:: Introduction
+
+    .. note:: We're currently developing the update process -- treat it as currently in beta, and let us know if you have any difficulties.
 
     CodeBug Connect has a tiny 'Operating System' that does various tasks in the background. Every so often we will provide an update that might add extra functionality or fix bugs.
     
@@ -23,8 +26,7 @@
 
     #. You have a backup of any programs and data on your CodeBug Connect, just in case!
     #. You're powering your CodeBug Connect from a good quality USB power supply.
-    #. Your CodeBug Connect has a :codeguide:`WiFi connection setup<setting-up-wifi>` and...
-    #. it's been :codeguide:`adopted<adopting-your-codebug>` on the CodeBug Website.
+    #. Your CodeBug Connect has a :codeguide:`WiFi connection setup<setting-up-wifi>`
 
     .. note:: While we do our best not to introduce changes that will cause your programs to break, you may have to make slight updates to keep them working after the update.
 
@@ -37,16 +39,16 @@
         :alt: Terminal in CodeBug Connect web IDE
     
     
-    #. enter the following:
+    #. In the terminal, enter the following:
 
        .. code-block:: python
 
         import remote_manage
         remote_manage.reboot_into_update()
 
-    #. Read and follow the instructions displayed. Enter ``yes`` if appropriate.
+    #. CodeBug Connect will ask for your confirmation. Read and follow the instructions displayed. Enter ``yes`` if appropriate.
 
-    #. When prompted, remove the power (unplug all connections to CodeBug Connect).
+    #. When prompted, remove the power (unplug all addons, the battery, the USB cable and any other connections to CodeBug Connect).
 
 .. codelab:: Power up and wait for update to download
 
@@ -71,7 +73,7 @@
             :alt: WiFi connected
             :align: center
 
-    #. CodeBug Connect will attempt to connect to the update server. If successful, the connection icon will be light purple.
+    #. CodeBug Connect will attempt to connect to the update server. If successful, the connection icon will be a light purple.
 
            .. figure:: img/connectionSuccess.png
             :alt: Successful connection
@@ -98,12 +100,14 @@
 
 .. codelab:: Wait for reboot
 
-    .. warning:: Wait until CodeBug Connect reboots before removing power!
+    .. warning:: It may not be safe to remove power until CodeBug Connect fully completes the reboot!
 
     #. Wait at least 10 seconds after your CodeBug Connect has completed rebooting after the update.
 
-    #. Once rebooted your Codebug Connect should be running the updated 'Operating System'.
+    #. Once rebooted, your Codebug Connect should be running the updated 'Operating System'.
 
     #. If you have a CodeBug Connect from the original kickstarter batch, and this is the first update, you may have to re-setup WiFi.
 
-    That's it, you're ready to check out the new features brought by the update.
+    That's it, you're now ready to try out the new features brought by the update. Look out for the new tutorials coming soon.
+
+.. TODO Link to tutorials

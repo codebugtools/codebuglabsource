@@ -1,4 +1,4 @@
-.. codelab:: Connect as Mass Storage (usb drive)
+.. codelab:: Connect as Mass Storage (USB drive)
 
     #. Disconnect CodeBug Connect from all power sources.
 

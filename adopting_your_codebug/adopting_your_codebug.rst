@@ -1,7 +1,8 @@
 .. adopting your CodeBug Connect
 .. (c) OpenLX SP Ltd 2022 All rights reserved
 
-:difficulty: easy
+:difficulty: beginner
+:duration: 5
 
 .. title:: Adopting your CodeBug Connect
 
